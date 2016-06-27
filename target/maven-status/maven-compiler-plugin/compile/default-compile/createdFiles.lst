@@ -1,0 +1,13 @@
+com/realdolmen/Person.class
+be/nancy/myproject/Fraction.class
+com/realdolmen/RepositoryException.class
+be/nancy/myproject/StubPersonDao.class
+com/realdolmen/PersonRepository.class
+be/nancy/myproject/Calculator.class
+be/nancy/myproject/Runner.class
+com/realdolmen/Address.class
+com/realdolmen/Utilities.class
+be/nancy/myproject/JdbcPersonDao.class
+be/nancy/myproject/Utilities.class
+com/realdolmen/City.class
+be/nancy/myproject/PersonDao.class
